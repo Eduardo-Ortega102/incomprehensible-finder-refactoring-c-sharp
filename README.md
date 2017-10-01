@@ -1,3 +1,11 @@
+# Abstract
+
+Here is a kata to practise refactoring that I found on this repository: `https://github.com/CodelyTV/incomprehensible-finder-refactoring-kata`
+
+The last commit has my solution to the excercise, feel free to clone this repo and revert that commit to start the excercise.
+
+Here is the original enunciate.
+
 # Introduction 
 
 Here is the bad news: the new developer you hired has written some terrible, atrocious code. 
@@ -42,7 +50,3 @@ You can stop when you feel the code is good enough, something you can come back 
 # Credits and other programming languages
 
 This kata is the C# original Incomprehensible Finder Refactoring Kata created by [K. Scott Allen](https://github.com/OdeToCode). 
-You can also find [the kata in Java](https://github.com/DoDevJutsu/incomprehensible-finder-refactoring-java) and [in Php](https://github.com/CodelyTV/incomprehensible-finder-refactoring-kata).
-
-We put the original C# version in an independent repository in order to make it more easily available for the [Software Craftsmanship Barcelona Coding Dojo session](http://www.meetup.com/Barcelona-Software-Craftsmanship/events/233107734/).
-Come with us and have some fun if you're near Barcelona the next Monday, August 22nd!
