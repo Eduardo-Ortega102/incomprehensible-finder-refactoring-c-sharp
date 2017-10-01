@@ -1,0 +1,10 @@
+C:\Users\Eduardo Ortega\RiderProjects\incomprehensible-finder-refactoring-c-sharp\Algorithm.Tests\bin\Debug\Algorithm.Tests.dll
+C:\Users\Eduardo Ortega\RiderProjects\incomprehensible-finder-refactoring-c-sharp\Algorithm.Tests\bin\Debug\Algorithm.Tests.pdb
+C:\Users\Eduardo Ortega\RiderProjects\incomprehensible-finder-refactoring-c-sharp\Algorithm.Tests\bin\Debug\Algorithm.dll
+C:\Users\Eduardo Ortega\RiderProjects\incomprehensible-finder-refactoring-c-sharp\Algorithm.Tests\bin\Debug\xunit.dll
+C:\Users\Eduardo Ortega\RiderProjects\incomprehensible-finder-refactoring-c-sharp\Algorithm.Tests\bin\Debug\Algorithm.pdb
+C:\Users\Eduardo Ortega\RiderProjects\incomprehensible-finder-refactoring-c-sharp\Algorithm.Tests\bin\Debug\xunit.xml
+C:\Users\Eduardo Ortega\RiderProjects\incomprehensible-finder-refactoring-c-sharp\Algorithm.Tests\obj\Debug\Algorithm.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo Ortega\RiderProjects\incomprehensible-finder-refactoring-c-sharp\Algorithm.Tests\obj\Debug\Algorithm.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo Ortega\RiderProjects\incomprehensible-finder-refactoring-c-sharp\Algorithm.Tests\obj\Debug\Algorithm.Tests.dll
+C:\Users\Eduardo Ortega\RiderProjects\incomprehensible-finder-refactoring-c-sharp\Algorithm.Tests\obj\Debug\Algorithm.Tests.pdb

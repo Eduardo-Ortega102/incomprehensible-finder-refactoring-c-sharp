@@ -1,0 +1,6 @@
+C:\Users\Eduardo Ortega\RiderProjects\incomprehensible-finder-refactoring-c-sharp\Algorithm\Algorithm\bin\Debug\Algorithm.dll
+C:\Users\Eduardo Ortega\RiderProjects\incomprehensible-finder-refactoring-c-sharp\Algorithm\Algorithm\bin\Debug\Algorithm.pdb
+C:\Users\Eduardo Ortega\RiderProjects\incomprehensible-finder-refactoring-c-sharp\Algorithm\Algorithm\obj\Debug\Algorithm.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo Ortega\RiderProjects\incomprehensible-finder-refactoring-c-sharp\Algorithm\Algorithm\obj\Debug\Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo Ortega\RiderProjects\incomprehensible-finder-refactoring-c-sharp\Algorithm\Algorithm\obj\Debug\Algorithm.dll
+C:\Users\Eduardo Ortega\RiderProjects\incomprehensible-finder-refactoring-c-sharp\Algorithm\Algorithm\obj\Debug\Algorithm.pdb
